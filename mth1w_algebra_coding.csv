@@ -1,0 +1,101 @@
+Question,Option 1,Option 2,Option 3,Option 4,Answer Key
+Simplify: 3x + 7y + 3x - 5y,6x + 2y,9x + 35y,8xy,6x + 12y,1
+Expand: 4(x + 4),4x + 4,x + 16,5x + 4,4x + 16,4
+Solve for x: 4x + 3 = 15,1,4,3_alt3,3,4
+"In Python code, what is the output of: `x = 5; print(x * 3 + 1)`?",9,20,15,16,4
+Simplify: 4x + 2y + 3x - 6y,12x + 12y,7x + 8y,3xy,7x - 4y,4
+Expand: 5(x + 4),5x + 20,6x + 4,5x + 4,x + 20,1
+Solve for x: 4x + 3 = 19,6,2,5,4,4
+"In Python code, what is the output of: `x = 4; print(x * 3 + 1)`?",13,12,8,16,1
+Simplify: 6x + 6y + 5x - 2y,11x + 4y,30x + 12y,11x + 8y,15xy,1
+Expand: 2(x + 2),2x + 2,x + 4,2x + 4,3x + 2,3
+Solve for x: 5x + 4 = 24,3,4,6,5,2
+"In Python code, what is the output of: `x = 3; print(x * 3 + 1)`?",7,9,12,10,4
+Simplify: 5x + 2y + 5x - 6y,10x + 8y,10x - 4y,6xy,25x + 12y,2
+Expand: 5(x + 3),5x + 15,6x + 3,x + 15,5x + 3,1
+Solve for x: 5x + 7 = 37,8,7,4,6,4
+"In Python code, what is the output of: `x = 2; print(x * 3 + 1)`?",7,8,6,7_alt3,1
+Simplify: 6x + 6y + 6x - 2y,16xy,36x + 12y,12x + 8y,12x + 4y,4
+Expand: 2(x + 1),3x + 1,2x + 1,x + 2,2x + 2,4
+Solve for x: 6x + 8 = 50,6,7,7_alt3,9,2
+"In Python code, what is the output of: `x = 6; print(x * 3 + 1)`?",24,19,10,18,2
+Simplify: 2x + 3y + 6x - 4y,8x + 7y,12x + 12y,8x - 1y,7xy,3
+Expand: 2(x + 6),2x + 6,x + 12,3x + 6,2x + 12,4
+Solve for x: 5x + 12 = 42,7,4,6,10,3
+"In Python code, what is the output of: `x = 5; print(x * 3 + 1)`?",16,20,9,15,1
+Simplify: 3x + 6y + 3x - 5y,9x + 30y,6x + 1y,7xy,6x + 11y,2
+Expand: 5(x + 8),6x + 8,x + 40,5x + 40,5x + 8,3
+Solve for x: 6x + 8 = 14,1,1_alt3,3,2,1
+"In Python code, what is the output of: `x = 4; print(x * 3 + 1)`?",8,13,12,16,2
+Simplify: 4x + 6y + 6x - 3y,10x + 3y,10x + 9y,24x + 18y,13xy,1
+Expand: 3(x + 2),3x + 2,3x + 6,x + 6,4x + 2,2
+Solve for x: 5x + 7 = 17,1,4,3,2,4
+"In Python code, what is the output of: `x = 3; print(x * 3 + 1)`?",7,12,10,9,3
+Simplify: 4x + 2y + 4x - 3y,7xy,16x + 6y,8x - 1y,8x + 5y,3
+Expand: 5(x + 1),x + 5,5x + 5,6x + 1,5x + 1,2
+Solve for x: 5x + 1 = 21,4_alt3,3,4,6,3
+"In Python code, what is the output of: `x = 2; print(x * 3 + 1)`?",6,7_alt3,7,8,3
+Simplify: 4x + 6y + 7x - 2y,11x + 8y,28x + 12y,15xy,11x + 4y,4
+Expand: 3(x + 4),3x + 12,3x + 4,4x + 4,x + 12,1
+Solve for x: 6x + 7 = 31,4_alt3,4,3,6,2
+"In Python code, what is the output of: `x = 6; print(x * 3 + 1)`?",24,18,19,10,3
+Simplify: 5x + 7y + 6x - 3y,11x + 4y,15xy,30x + 21y,11x + 10y,1
+Expand: 3(x + 6),x + 18,3x + 6,4x + 6,3x + 18,4
+Solve for x: 2x + 1 = 17,8,7,10,9,1
+"In Python code, what is the output of: `x = 5; print(x * 3 + 1)`?",20,9,16,15,3
+Simplify: 7x + 4y + 3x - 5y,9xy,10x + 9y,10x - 1y,21x + 20y,3
+Expand: 5(x + 2),5x + 10,x + 10,5x + 2,6x + 2,1
+Solve for x: 4x + 2 = 38,10,9_alt3,7,9,4
+"In Python code, what is the output of: `x = 4; print(x * 3 + 1)`?",16,13,8,12,2
+Simplify: 4x + 7y + 6x - 2y,15xy,10x + 9y,10x + 5y,24x + 14y,3
+Expand: 5(x + 2),5x + 2,x + 10,5x + 10,6x + 2,3
+Solve for x: 2x + 3 = 7,3,1,5,2,4
+"In Python code, what is the output of: `x = 3; print(x * 3 + 1)`?",12,10,9,7,2
+Simplify: 3x + 5y + 7x - 7y,10x - 2y,8xy,21x + 35y,10x + 12y,1
+Expand: 2(x + 4),3x + 4,2x + 4,2x + 8,x + 8,3
+Solve for x: 5x + 13 = 38,3,5,7,10,2
+"In Python code, what is the output of: `x = 2; print(x * 3 + 1)`?",7,8,6,7_alt3,1
+Simplify: 3x + 2y + 6x - 6y,9x + 8y,5xy,9x - 4y,18x + 12y,3
+Expand: 4(x + 7),4x + 28,5x + 7,4x + 7,x + 28,1
+Solve for x: 5x + 3 = 23,2,4,6,5,2
+"In Python code, what is the output of: `x = 6; print(x * 3 + 1)`?",18,19,24,10,2
+Simplify: 4x + 5y + 3x - 3y,9xy,7x + 2y,12x + 15y,7x + 8y,2
+Expand: 4(x + 3),4x + 12,x + 12,4x + 3,5x + 3,1
+Solve for x: 2x + 10 = 26,18,7,8,10,3
+"In Python code, what is the output of: `x = 5; print(x * 3 + 1)`?",16,20,9,15,1
+Simplify: 7x + 6y + 6x - 4y,42x + 24y,13x + 2y,15xy,13x + 10y,2
+Expand: 2(x + 7),2x + 7,x + 14,2x + 14,3x + 7,3
+Solve for x: 6x + 10 = 34,7,6,4,2,3
+"In Python code, what is the output of: `x = 4; print(x * 3 + 1)`?",16,8,13,12,3
+Simplify: 6x + 5y + 5x - 3y,11x + 8y,13xy,30x + 15y,11x + 2y,4
+Expand: 4(x + 1),4x + 4,x + 4,4x + 1,5x + 1,1
+Solve for x: 2x + 8 = 22,6,9,7,15,3
+"In Python code, what is the output of: `x = 3; print(x * 3 + 1)`?",9,12,7,10,4
+Simplify: 2x + 4y + 7x - 3y,9x + 1y,10xy,14x + 12y,9x + 7y,1
+Expand: 2(x + 2),x + 4,2x + 4,3x + 2,2x + 2,2
+Solve for x: 2x + 6 = 10,1,3,2,8,3
+"In Python code, what is the output of: `x = 2; print(x * 3 + 1)`?",6,8,7,7_alt3,3
+Simplify: 2x + 7y + 5x - 5y,7x + 12y,7x + 2y,10x + 35y,9xy,2
+Expand: 2(x + 8),2x + 8,x + 16,3x + 8,2x + 16,4
+Solve for x: 5x + 3 = 8,2,1,1_alt3,3,2
+"In Python code, what is the output of: `x = 6; print(x * 3 + 1)`?",24,19,18,10,2
+Simplify: 3x + 2y + 3x - 6y,6x + 8y,6x - 4y,9x + 12y,2xy,2
+Expand: 2(x + 4),3x + 4,x + 8,2x + 4,2x + 8,4
+Solve for x: 6x + 5 = 65,10,8,11,12,1
+"In Python code, what is the output of: `x = 5; print(x * 3 + 1)`?",16,9,20,15,1
+Simplify: 6x + 6y + 4x - 6y,10x + 0y,10x + 12y,10xy,24x + 36y,1
+Expand: 4(x + 4),4x + 16,x + 16,4x + 4,5x + 4,1
+Solve for x: 4x + 2 = 22,4,5_alt3,5,6,3
+"In Python code, what is the output of: `x = 4; print(x * 3 + 1)`?",12,13,8,16,2
+Simplify: 7x + 4y + 5x - 7y,35x + 28y,9xy,12x - 3y,12x + 11y,3
+Expand: 5(x + 2),5x + 10,x + 10,5x + 2,6x + 2,1
+Solve for x: 4x + 10 = 50,8,12,10,15,3
+"In Python code, what is the output of: `x = 3; print(x * 3 + 1)`?",7,12,9,10,4
+Simplify: 2x + 4y + 5x - 5y,6xy,7x - 1y,7x + 9y,10x + 20y,2
+Expand: 4(x + 1),5x + 1,4x + 1,4x + 4,x + 4,3
+Solve for x: 4x + 15 = 43,6,14,7,9,3
+"In Python code, what is the output of: `x = 2; print(x * 3 + 1)`?",6,8,7_alt3,7,4
+Simplify: 2x + 7y + 4x - 6y,7xy,8x + 42y,6x + 13y,6x + 1y,4
+Expand: 4(x + 3),5x + 3,x + 12,4x + 12,4x + 3,3
+Solve for x: 2x + 13 = 17,1,2,15,3,2
+"In Python code, what is the output of: `x = 6; print(x * 3 + 1)`?",10,24,19,18,3
